@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="scriptz/css/portfolio.css" />
+    <title>Nigel Khasiani | Software Engineer</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Landing Page -->
+    <header id ="Nigel" class="text-white text-center py-5">
+        <div class="container">
+            <h1>Hi, I'm <span class="fw-bold">Nigel Khasiani</span></h1>
+            <p class="lead">Software Engineer | Turning Ideas Into Code</p>
+            <a href="#projects" class="btn btn-light btn-lg mt-3">View My Work</a>
+        </div>
+    </header>
+
+    <!-- About Me Section -->
+    <section id="about" class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-4">About Me</h2>
+            <p class="text-center">Completed a Bachelor of Science in Mathematics and Computer Science with a specialization in Software Engineering. I love solving problems and building solutions that make life easier and more efficient. I specialize in designing web applications.
+                My programming journey at university began with an introduction to C++, where I learned the fundamentals of structured programming. As I progressed, I deepened my understanding of structured programming through C++ and soon transitioned into object-oriented programming with Java. This provided me with a solid foundation for creating more complex and efficient programs. I also explored web development by learning HTML and CSS, which allowed me to build and style basic websites. As I dove into database design, I gained hands-on experience with MySQL and tools like XAMPP and Oracle. My skills expanded further when I learned JavaScript, TypeScript, and PHP, which enabled me to create dynamic and interactive web applications. Additionally, I developed an interest in UI design and learned JavaFX and Scene Builder to design user-friendly interfaces. Along the way, I became accustomed to using Bootstrap for responsive and mobile-friendly web design.
+            </p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center text-white mb-4">My Projects</h2>
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Colosseum</h5>
+                            <p class="card-text">A web app designed using HTML, Javascript, PHP, MySQL and Bootstrap that's designed to convenience all matters real estate </p>
+                            <a href="https://github.com/NigzMaf1a/Colosseum" class="btn btn-primary" target="_blank">View on GitHub</a>
+                            <!--<a href="#" class="btn btn-secondary" target="_blank">Live Demo</a>-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Hanging Gardens</h5>
+                            <p class="card-text">A web app designed using HTML, Javascript, PHP, MySQL and Bootstrap that's designed to convenience the agribusiness sector </p>
+                            <a href="https://github.com/NigzMaf1a/Hanging-Gardens" class="btn btn-primary" target="_blank">View on GitHub</a>
+                            <!--<a href="#" class="btn btn-secondary" target="_blank">Live Demo</a>-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Aurum Domus</h5>
+                            <p class="card-text">A web app designed using HTML, Javascript, PHP, MySQL and Bootstrap designed to facilitate operations in the hospitality industry </p>
+                            <a href="https://github.com/NigzMaf1a/Aurum-Domus" class="btn btn-primary" target="_blank">View on GitHub</a>
+                            <!--<a href="#" class="btn btn-secondary" target="_blank">Live Demo</a>-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Hydraflow</h5>
+                            <p class="card-text">A web app designed using HTML, Javascript, PHP, MySQL and Bootstrap for a plumbing company</p>
+                            <a href="https://github.com/NigzMaf1a/Hydraflow" class="btn btn-primary" target="_blank">View on GitHub</a>
+                            <!--<a href="#" class="btn btn-secondary" target="_blank">Live Demo</a>-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Ukulele Band Mobile App</h5>
+                            <p class="card-text">An android app designed using Java, XML, PHP and MySQL for a band in Nairobi</p>
+                            <a href="https://github.com/NigzMaf1a/Ukulele-Band" class="btn btn-primary" target="_blank">View on GitHub</a>
+                            <!--<a href="#" class="btn btn-secondary" target="_blank">Live Demo</a>-->
+                        </div>
+                    </div>
+                </div>
+                <!-- more projects -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="py-5">
+        <div class="container">
+            <h2 class="text-center text-white mb-4">Skills</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <ul class="list-group">
+                        <li class="list-group-item">JavaScript</li>
+                        <li class="list-group-item">PHP</li>
+                        <li class="list-group-item">HTML & CSS</li>
+                        <li class="list-group-item">Java & JavaFX</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-group">
+                        <li class="list-group-item">React</li>
+                        <li class="list-group-item">Node.js</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-group">
+                        <li class="list-group-item">Git</li>
+                        <li class="list-group-item">Docker</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Contact Section -->
+<section id="contact" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center text-white mb-4">Contact Me</h2>
+        <p class="text-center text-white">Have a project in mind or just want to say hi? Reach out to me below:</p>
+        <form action="https://formspree.io/f/xgvovrzq" method="POST" class="mx-auto" style="max-width: 600px;">
+            <!-- Name Input -->
+            <div class="mb-3">
+                <label for="name" class="form-label text-white">Your Name</label>
+                <input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required>
+            </div>
+            <!-- Email Input -->
+            <div class="mb-3">
+                <label for="email" class="form-label text-white">Your Email</label>
+                <input type="email" class="form-control" id="email" name="email" placeholder="Your Email" required>
+            </div>
+            <!-- Message Input -->
+            <div class="mb-3">
+                <label for="message" class="form-label text-white">Your Message</label>
+                <textarea class="form-control" id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
+            </div>
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary w-100">Send Message</button>
+        </form>
+    </div>
+</section>
+
+
+    <footer class="text-center py-3 text-white" id="footer">
+        <p>&copy; 2025 Nigel Khasiani. All rights reserved.</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="scriptz/Javascript/footer.js"></script>
+</body>
+</html>

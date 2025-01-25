@@ -1,0 +1,16 @@
+#footer {
+    background-color: black;
+}
+
+#Nigel {
+	background-image: linear-gradient(rgba(30,30,30,0.8), rgba(30,30,30,0.8)), url(Nigel4.jpg);
+}
+#projects {
+	background-image: linear-gradient(rgba(30,30,30,0.8), rgba(30,30,30,0.8)), url(Nigel1.jpg);
+}
+#skills {
+	background-image: linear-gradient(rgba(30,30,30,0.8), rgba(30,30,30,0.8)), url(Nigel2.jpg);
+}
+#contact {
+	background-image: linear-gradient(rgba(30,30,30,0.8), rgba(30,30,30,0.8)), url(Nigel3.jpg);
+}
